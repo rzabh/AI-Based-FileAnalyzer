@@ -1,4 +1,10 @@
+AI Based CSV or Text file Analyzer
 
+Application Made with KivyMD
+
+Infused with MatplotLib for Data Visualisation
+
+Offline AI Model: tinyllama-1.1b-chat-v1.0.Q8_0
 
 
 ![Image](https://github.com/user-attachments/assets/0a1ee080-4b5a-4a9b-8d7f-3984108b80db)
